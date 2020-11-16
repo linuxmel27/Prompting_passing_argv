@@ -1,3 +1,5 @@
+# What's the problem with this?
+
 from sys import argv
 script, user_name = argv
 prompt = '>'
