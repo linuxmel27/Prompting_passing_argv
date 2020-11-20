@@ -15,6 +15,8 @@ lives = input(prompt)
 print("What kind of computer do you have?")
 computer = input(prompt)
 
+
+# You can print several lines in the same instruction, forthere you use triple ", because you can do line breaks and pass some parameters using {} inside the sentences.
 print(f""" So you said {likes} about liking me
 	You live in {lives}. Not sure where that is
 	And you have a {computer} computer. Nice""" )
